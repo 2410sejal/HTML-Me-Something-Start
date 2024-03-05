@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+#Background {
+    background-color: rgb(246, 227, 245);
+}
+#mainHeading{
+    color: red;
+    text-align: center;
+}
+body{
+    margin: 8px;
+    display:block;
+}
+.funParagraph{
+     color: green;
+}
+#testP{
+    font-size: x-large;
+}
+p{
+    text-align: center;
+}
+#imgDisplay{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+}
+
